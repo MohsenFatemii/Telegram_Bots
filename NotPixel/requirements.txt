@@ -1,0 +1,2 @@
+﻿playwright==1.41.1
+requests==2.32.3
